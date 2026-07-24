@@ -1,0 +1,1 @@
+se desarrollaron en MATLAB para las tres secciones solicitadas: cinemática directa, cinemática inversa y control cinemático. Cada uno se ejecuta de forma independiente y utiliza los mismos parámetros del robot
